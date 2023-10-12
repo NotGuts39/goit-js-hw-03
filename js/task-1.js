@@ -5,7 +5,7 @@ function slugify(title) {
     const slug = arrays.join("-");
     
     
-    console.log(slug)
+    return slug
 
 }
 
